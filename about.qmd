@@ -1,13 +1,15 @@
 ---
-title: "About"
-image: profile.jpg
+title: "About Me"
+image: myphoto.jpg
 about:
   template: jolla
+  image: myphoto.jpg
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/jlii0673-coder
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Hi, I'm Jingye Li, a postgraduate student at Monash University.
+
+I am interested in exploring data and communicating findings through clear writing and visualisations. This website shares my work for ETC5523 Communicating with Data, including a blog post adapted from my Assignment 2 report.

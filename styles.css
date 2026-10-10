@@ -1,4 +1,45 @@
-/* css styles */
-.navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+/* Background and body text */
+body {
+  background-color: #faf7f2;
+  color: #302b35;
+  line-height: 1.7;
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: #59446d;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff;
+}
+
+.navbar .nav-link:hover {
+  color: #eee2f5;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #59446d;
+}
+
+/* Content links */
+main a {
+  color: #705085;
+  text-decoration: underline;
+}
+
+main a:hover {
+  color: #493259;
+}
+
+/* Blog title banner */
+.quarto-title-banner {
+  background-color: #eee6f2;
+}
+
+.quarto-title-banner h1,
+.quarto-title-banner .quarto-title .title {
+  color: #59446d;
 }
