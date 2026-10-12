@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "",
+    "text": "If a country reports fewer infections among hospital patients, you might expect it to have a smaller infection problem overall. A study of Germany shows why that conclusion can be misleading.\nHealthcare-associated infections are infections acquired while receiving healthcare. Examples include pneumonia, surgical wound infections and urinary tract infections. They can cause additional illness, longer hospital stays and, in some cases, death.\nUsing European hospital survey data collected in 2011–2012, researchers estimated that Germany had fewer infections per 100 hospitalised patients than the European Union and European Economic Area average. Yet Germany had more infections per 100,000 residents.\nHow can both findings be true? The key is who gets counted. The infection rate among hospital patients describes one group; the rate across the whole population also reflects how many people receive hospital care.\nFor readers interested in hospital safety, this distinction matters: a favourable hospital-level rate alone does not tell us the full scale of the problem."
+  },
+  {
+    "objectID": "posts/welcome/index.html#does-a-lower-infection-rate-tell-the-whole-story",
+    "href": "posts/welcome/index.html#does-a-lower-infection-rate-tell-the-whole-story",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "",
+    "text": "If a country reports fewer infections among hospital patients, you might expect it to have a smaller infection problem overall. A study of Germany shows why that conclusion can be misleading.\nHealthcare-associated infections are infections acquired while receiving healthcare. Examples include pneumonia, surgical wound infections and urinary tract infections. They can cause additional illness, longer hospital stays and, in some cases, death.\nUsing European hospital survey data collected in 2011–2012, researchers estimated that Germany had fewer infections per 100 hospitalised patients than the European Union and European Economic Area average. Yet Germany had more infections per 100,000 residents.\nHow can both findings be true? The key is who gets counted. The infection rate among hospital patients describes one group; the rate across the whole population also reflects how many people receive hospital care.\nFor readers interested in hospital safety, this distinction matters: a favourable hospital-level rate alone does not tell us the full scale of the problem."
+  },
+  {
+    "objectID": "posts/welcome/index.html#a-different-denominator-changes-the-story",
+    "href": "posts/welcome/index.html#a-different-denominator-changes-the-story",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "A different denominator changes the story",
+    "text": "A different denominator changes the story\nThe study estimated 2.40 infections per 100 hospitalised patients in Germany, compared with 2.83 across the EU/EEA. Looking only at these figures, Germany appears to have a lower infection rate.\nBut the population-level comparison reverses the picture: Germany had an estimated 592.1 infections per 100,000 residents, compared with 467.9 across the EU/EEA—about 27% higher.\nFigure 1 shows both comparisons. Each panel uses its own scale because the two measures have different denominators.\n\n\n\n\n\n\n\n\nFigure 1: Estimated healthcare-associated infections in Germany and the EU/EEA, based on 2011–2012 data. The panels use different scales and denominators. Source: Zacher et al. (2019).\n\n\n\n\n\nThe authors linked this contrast to Germany’s high volume of hospital care. A lower infection rate among patients can still produce a substantial population burden when many people are admitted. This does not establish that hospital use alone caused the difference, or that any individual German hospital was less safe."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-does-this-mean-for-the-population",
+    "href": "posts/welcome/index.html#what-does-this-mean-for-the-population",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "What does this mean for the population?",
+    "text": "What does this mean for the population?\nThe difference matters because these infections can have serious consequences. For the five infection types studied, the researchers estimated approximately 478,000 infections and 16,000 deaths attributable to those infections annually in Germany.\nTable 1 puts that estimated national burden into perspective. These are modelled estimates, rather than directly counted annual totals.\n\n\n\nTable 1: Estimated annual burden of five healthcare-associated infection types in Germany, based on 2011–2012 survey data. Source: Zacher et al. (2019).\n\n\n\n\n\n\n\n\n\n\nOutcome\nCentral estimate\n95% uncertainty interval\n\n\n\n\nAnnual infections\n478,222\n421,350–537,787\n\n\nAnnual deaths attributable to these infections\n16,245\n10,863–22,756\n\n\n\n\n\n\nThe uncertainty intervals show that the exact totals are uncertain. Even so, the estimates highlight why a lower infection rate among hospital patients should not be taken as evidence of a small national problem."
+  },
+  {
+    "objectID": "posts/welcome/index.html#where-do-these-estimates-come-from",
+    "href": "posts/welcome/index.html#where-do-these-estimates-come-from",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "Where do these estimates come from?",
+    "text": "Where do these estimates come from?\nZacher et al. (2019) used a European hospital survey conducted in 2011–2012. Germany’s survey took place in 2011, and its representative sample included 9,626 patients from 46 hospitals.\nThe survey recorded infections present at the time patients were assessed. The researchers then used information about hospital stays, infection duration and hospital admissions to estimate annual infections and their consequences. This explains why the figures are estimates rather than directly observed annual totals."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-these-numbers-cannot-tell-us",
+    "href": "posts/welcome/index.html#what-these-numbers-cannot-tell-us",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "What these numbers cannot tell us",
+    "text": "What these numbers cannot tell us\nThe study covers five common infection types, so its estimates do not include every healthcare-associated infection.\nThese results describe historical data, not Germany’s current infection burden. The estimates also depend on modelling assumptions and how well the surveyed hospitals represent the wider hospital population.\nFor readers, the important qualification is simple: this study helps explain how infection statistics can tell different stories, but it cannot tell you how safe a particular hospital is today."
+  },
+  {
+    "objectID": "posts/welcome/index.html#look-beyond-a-single-infection-rate",
+    "href": "posts/welcome/index.html#look-beyond-a-single-infection-rate",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "Look beyond a single infection rate",
+    "text": "Look beyond a single infection rate\nCan a lower hospital infection rate hide a bigger national problem? In this study, Germany’s lower estimated rate among hospital patients coexisted with a higher rate across the population.\nThe lesson is to look beyond one favourable number. When reading an infection statistic, ask who is being counted, when the data were collected and what consequences the infections have.\nHospital-level rates and population-level burden answer different questions. Considering both gives a fuller picture of the problem."
+  },
+  {
+    "objectID": "posts/welcome/index.html#reference",
+    "href": "posts/welcome/index.html#reference",
+    "title": "Can a lower hospital infection rate hide a bigger national problem?",
+    "section": "Reference",
+    "text": "Reference\nZacher, B., Haller, S., Willrich, N., et al. (2019). Application of a new methodology and R package reveals a high burden of healthcare-associated infections (HAI) in Germany compared to the average in the European Union/European Economic Area, 2011 to 2012. Eurosurveillance, 24(46), 1900135. https://doi.org/10.2807/1560-7917.ES.2019.24.46.1900135"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Jingye Li, a postgraduate student at Monash University.\nI am interested in exploring data and communicating findings through clear writing and visualisations. This website shares my work for ETC5523 Communicating with Data, including a blog post adapted from my Assignment 2 report."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "Can a lower hospital infection rate hide a bigger national problem?\n\n\n\nHealth\n\nHospitals\n\n\n\nWhy Germany’s lower infection rate among hospital patients did not mean a lower burden across its population.\n\n\n\n\n\nOct 10, 2026\n\n\nJingye Li\n\n\n\n\n\nNo matching items"
+  }
+]

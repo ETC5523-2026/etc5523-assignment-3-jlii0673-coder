@@ -10,5 +10,28 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+```{=html}
+<script>
+window.filterListingCategory = function(category) {
+  const decode = value => {
+    try {
+      return decodeURIComponent(atob(value));
+    } catch {
+      return value;
+    }
+  };
 
+  for (const list of Object.values(window["quarto-listings"] || {})) {
+    if (category === "") {
+      list.filter();
+    } else {
+      list.filter(item => {
+        const raw = item.values().categories || "";
+        return decode(raw).split(",").includes(decode(category));
+      });
+    }
+  }
+};
+</script>
+```
 
